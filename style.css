@@ -23,5 +23,6 @@ html {
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	color: rgb(223, 219, 30); 
-	display: block;
+	justify-content: space-between;
+	text-align: left;
 	}
