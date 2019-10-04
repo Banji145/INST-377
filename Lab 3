@@ -4,8 +4,8 @@
 <head>
   <title>Sample HTML Demonstration Page</title>
   <style>
-  doc {
-  background: green;
+doc {
+  background-color: green;
   height: 960px;
   width: 480px;
 }
@@ -47,7 +47,7 @@ wrapper {
   padding: 0;
 }
 
-second_container {
+.second_container {
   background: pink;
   height: 150px;
 }
@@ -59,7 +59,7 @@ second_container {
   flex-wrap: wrap;
 }
 
-textbox {
+.textbox {
   height: 100px;
   width: 350px;
   margin-bottom: 25px;
