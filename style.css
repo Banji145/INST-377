@@ -15,10 +15,14 @@ html {
   flex-direction: column;
 }
 .image {
-  border-radius: 8px;
-  width: 250px;
+  width: 50px;
+  height: 50px;
 }
-.resume {
+.image {
+  width: 100%;
+  height: auto;
+}
+.fruit {
   font: italic normal 1.4em georgia, sans-serif;
   letter-spacing: 1px;
   margin-bottom: 0;
